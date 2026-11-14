@@ -29,3 +29,8 @@ data/
 
 # Logs
 *.log
+
+# Claude Code (local instructions, not versioned)
+CLAUDE.md
+CLAUDE.local.md
+.claude/
