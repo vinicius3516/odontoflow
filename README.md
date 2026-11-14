@@ -5,6 +5,8 @@
 > Projeto conduzido como um produto real, com regras de negócio, backlog, sprints, kanban, PRs revisados, ADRs e CI/CD. Ele acompanha uma trilha de estudos de Java de ~18 meses, começando em Java puro e terminando com Spring, nuvem e IA.
 
 ## Status
+📋 [Kanban do projeto](https://github.com/users/vinicius3516/projects/5)
+
 🚧 **Fase 0 — Setup e processo.** Veja o [roadmap](docs/04-roadmap.md).
 
 ## Documentação

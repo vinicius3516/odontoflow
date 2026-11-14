@@ -21,7 +21,7 @@
 - **Review + Retro (fim):** registramos em `docs/sprints/sprint-XX.md` o que foi entregue, o que você aprendeu, o que travou e o que muda na próxima.
 - **Refinamento:** o Tech Lead detalha as issues da próxima sprint antes da planning. Issues com a label `precisa-refinamento` **não** podem ser puxadas.
 
-## Kanban (GitHub Projects)
+## Kanban ([GitHub Projects](https://github.com/users/vinicius3516/projects/5))
 
 | Coluna | Significado |
 |---|---|
