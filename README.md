@@ -27,12 +27,9 @@ Java 25 · Maven · JUnit 5 · PostgreSQL · Spring Boot · Spring Security (JWT
 ## Como executar
 
 ```bash
-pré-requisito: JDK 25 instalado
-
 ./mvnw compile
 java -cp target/classes com.odontoflow.cli.Main
 
-"Windowns"
 mvnw.cmd compile
 java -cp target/classes com.odontoflow.cli.Main
 ```
