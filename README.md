@@ -25,4 +25,11 @@
 Java 25 · Maven · JUnit 5 · PostgreSQL · Spring Boot · Spring Security (JWT → OAuth2/OIDC) · JPA/Hibernate · Flyway · Docker · GitHub Actions · Redis · Spring Batch · AWS (S3, SQS/SNS, ECS) · Spring AI
 
 ## Como executar
-_A definir na Sprint 0 (issue de esqueleto do projeto)._
+
+```bash
+./mvnw compile
+java -cp target/classes com.odontoflow.cli.Main
+
+mvnw.cmd compile
+java -cp target/classes com.odontoflow.cli.Main
+```
