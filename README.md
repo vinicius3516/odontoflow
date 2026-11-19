@@ -26,3 +26,8 @@ Java 25 · Maven · JUnit 5 · PostgreSQL · Spring Boot · Spring Security (JWT
 
 ## Como executar
 _A definir na Sprint 0 (issue de esqueleto do projeto)._
+
+```java
+./mvnw compile
+java -cp target/classes com.odontoflow.cli.Main
+```
